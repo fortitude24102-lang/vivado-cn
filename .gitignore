@@ -1,0 +1,14 @@
+/runs/
+/work/
+/projects/
+.Xil/
+__pycache__/
+*.py[cod]
+*.log
+*.jou
+*.pb
+*.str
+*.bit
+*.dcp
+*.ltx
+*.wdb
